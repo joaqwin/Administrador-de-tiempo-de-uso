@@ -1,0 +1,10 @@
+Funcionalidades:
+1- Avisar periodicamente de hacerle un chequeo a tu pc.
+2- Verificar si algún proceso está consumiendo más de lo debido. ps-ux
+3- Poder killear un proceso. kill pid
+4- Un botón que nos muestre la información de nuestro sistema.
+5- Borrar los archivos caché.
+6- Borrar archivos iguales
+7- Borrar procesos de algun tipo
+8-Ver los ultimos usos de los programas y dar recomendaciones de eliminacion de los mismos.
+9- Controlar el tiempo de uso de ciertos programas
